@@ -3,11 +3,11 @@
 /**
  * main - Main is an important function in C
  *
- * Return:Always 0(success)
+ * Return:Always 0 when successful
  */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle",\n);
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
