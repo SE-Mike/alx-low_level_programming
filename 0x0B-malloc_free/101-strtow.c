@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int word_len(char *str);
+int count_word(char *str);
+char **strtow(char *str);
+
 /**
  * strtow - concatenates all the arguments of your program
  *@str: string
